@@ -8,7 +8,7 @@ This project is a Calculator application implemented in Python using the Tkinter
 
 ## Directory Structure
 ```sh
-WindowsCalcClone/
+PocketCalculatorApp/
 ├── calculator/
 │   ├── Calculator.py # Core Calculator class with math operations
 ├── utils/
