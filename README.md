@@ -1,4 +1,4 @@
-# Windows Calculator Clone in Python
+# Simple UI Calculator in Python
 
 ## Project Description
 
