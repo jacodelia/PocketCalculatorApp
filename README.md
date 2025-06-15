@@ -40,4 +40,4 @@ python3 PocketCalculatorApp.py
 
 
 ## License
-This Api is distributed under the terms of the MIT License. See the [license](LICENSE.md) for details.
+This app is distributed under the terms of the MIT License. See the [license](LICENSE.md) for details.
